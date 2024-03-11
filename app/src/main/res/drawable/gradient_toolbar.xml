@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/gradient_toolbar.xml -->
+<!-- res/drawable/gradient_toolbar.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#4F68A7"
+    android:endColor="#8258A6"
+    android:type="linear"
+        android:angle="0"/>
+</shape>
+
